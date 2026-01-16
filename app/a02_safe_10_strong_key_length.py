@@ -1,0 +1,1 @@
+RSA_KEY_BITS = 2048
